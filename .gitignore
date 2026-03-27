@@ -1,1 +1,8 @@
-.venv/
+# Ignorar tudo
+*
+
+# Permitir apenas o notebook específico
+!lstm_v2.ipynb
+
+# Permitir o próprio gitignore
+!.gitignore
